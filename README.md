@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-
+  <img src="https://github.com/qsedftghk/dragon/blob/main/dragon_01.jpg" width="45%">
 &nbsp;
   <img src="https://github.com/qsedftghk/dragon/blob/main/dragon_02.jpg" width="45%">
 </p>
