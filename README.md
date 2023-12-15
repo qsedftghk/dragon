@@ -8,6 +8,7 @@
   <img src="https://github.com/qsedftghk/dragon/blob/main/dragon_03.jpg" width="30%">
   <img src="https://github.com/qsedftghk/dragon/blob/main/dragon_02.jpg" width="30%">
 </p>
+  <img src="https://github.com/qsedftghk/dragon/blob/main/dragon.jpg" width="70%">
 ![Preview](https://github.com/qsedftghk/dragon/blob/main/dragon.jpg)
 <br>
 
