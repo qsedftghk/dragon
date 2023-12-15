@@ -9,7 +9,3 @@
   <img src="https://github.com/qsedftghk/dragon/blob/main/dragon_02.jpg" width="30%">
 </p>
   <img src="https://github.com/qsedftghk/dragon/blob/main/dragon.jpg">
-![Preview](https://github.com/qsedftghk/dragon/blob/main/dragon.jpg)
-<br>
-
-
