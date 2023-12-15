@@ -4,7 +4,9 @@
 <br>
 ![Preview](https://github.com/qsedftghk/dragon/blob/main/dragon.jpg)
 <br>
+
 <p align="center">
-      <img src="https://github.com/qsedftghk/dragon/blob/main/dragon_01.jpg" align="left">
-      <img src="https://github.com/qsedftghk/dragon/blob/main/dragon_02.jpg" align="right">
+  <img src="https://github.com/qsedftghk/dragon/blob/main/dragon_01.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/qsedftghk/dragon/blob/main/dragon_02.jpg" width="45%">
 </p>
